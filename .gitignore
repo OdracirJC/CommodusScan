@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.pbxuser
+*.xcworkspace/xcuserdata/
+!default.pbxuser
+!default.xcworkspace/
+
+# Swift
+*.swiftpm/
+*.xcframework/
+
+# Cocoapods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Build artifacts
+build/
+DerivedData/
+*.o
+*.swiftmodule
+*.swiftdoc
+*.dSYM/
+
+# Other
+xcuserdata/
